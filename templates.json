@@ -1,0 +1,7 @@
+{
+  "package": {
+    "name": "npm-package-base",
+    "path": "github:xiaoborg/npm-package-base",
+    "description": "A custom npm package base template"
+  }
+}
