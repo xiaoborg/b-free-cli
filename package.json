@@ -1,7 +1,7 @@
 {
   "name": "b-free-cli",
-  "version": "1.0.0",
-  "description": "xb npm cli",
+  "version": "1.0.1",
+  "description": "b npm cli",
   "repository": {
     "type": "git",
     "url": "https://github.com/xiaoborg/b-free-cli"
